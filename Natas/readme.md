@@ -1,51 +1,36 @@
 # NATAS WRITE UP
 ## Natas0
-View source 
-
-**user: natas1**
-
+View source  
+**user: natas1**  
 **pass: gtVrDuiDfck831PqWsLEZy5gyDz1clto**
 ## Natas1
-Ctrl + U
-**user: natas2**
-
+Ctrl + U  
+**user: natas2**  
 **pass: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi**
 ## Natas2
-http://natas2.natas.labs.overthewire.org/files/users.txt
-
-**user: natas3**
-
+http://natas2.natas.labs.overthewire.org/files/users.txt  
+**user: natas3**  
 **pass: sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14**
 ## Natas3
-http://natas3.natas.labs.overthewire.org/robots.txt
-
-http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt
-
-**user: natas4**
-
+http://natas3.natas.labs.overthewire.org/robots.txt  
+http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt  
+**user: natas4**  
 **pass: Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ**
 ## Natas4
-Dùng Burp intercept request để sửa referer thành http://natas5.natas.labs.overthewire.org/
-
-**user: natas5**
-
+Dùng Burp intercept request để sửa referer thành http://natas5.natas.labs.overthewire.org/  
+**user: natas5**  
 **pass: iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq**
 ## Natas5
-Dùng Burp intercept request để sửa cookie thành loggedin=1
-
-**user: natas6**
-
-**pass: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1**
+Dùng Burp intercept request để sửa cookie thành loggedin=1  
+**user: natas6**  
+**pass: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1**  
 ## Natas6
-http://natas6.natas.labs.overthewire.org/includes/secret.inc
-
-Secret: FOEIUWGHFEEUHOFUOIU
-
-**user: natas7**
+http://natas6.natas.labs.overthewire.org/includes/secret.inc  
+Secret: FOEIUWGHFEEUHOFUOIU  
+**user: natas7**  
 **pass: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9**
 ## Natas7
-http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8
-
+http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8  
 **user: natas8**  
 **pass: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe**
 ## Natas8
