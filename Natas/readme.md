@@ -42,7 +42,12 @@ secret = oubWYf2kBq
 **user: natas9**  
 **pass: W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl**  
 ## Natas9
-Query: `'' /etc/natas_webpass/natas10;`  
+Query: `'' -m10  /etc/natas_webpass/natas10`  
 **user: natas10**
 **pass: nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu**
 ## Natas10
+Query: `'' -m10  /etc/natas_webpass/natas11`  
+**user: natas11*  
+**pass: U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK**
+## Natas11
+
