@@ -34,4 +34,15 @@ http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas
 **user: natas8**  
 **pass: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe**  
 ## Natas8
-
+```
+#!/bin/python3
+  secret = base64.b64decode(bytes.fromhex('3d3d516343746d4d6d6c315669563362').decode('utf-8')[::-1])
+```
+secret = oubWYf2kBq  
+**user: natas9**  
+**pass: W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl**  
+## Natas9
+Query: `'' /etc/natas_webpass/natas10;`  
+**user: natas10**
+**pass: nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu**
+## Natas10
