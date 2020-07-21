@@ -46,7 +46,7 @@ Secret: FOEIUWGHFEEUHOFUOIU
 ## Natas7
 http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8
 
-**user: natas8**
+**user: natas8**  
 **pass: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe**
 ## Natas8
 
