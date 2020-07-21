@@ -30,3 +30,23 @@ Dùng Burp intercept request để sửa referer thành http://natas5.natas.labs
 **user: natas5**
 
 **pass: iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq**
+## Natas5
+Dùng Burp intercept request để sửa cookie thành loggedin=1
+
+**user: natas6**
+
+**pass: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1**
+## Natas6
+http://natas6.natas.labs.overthewire.org/includes/secret.inc
+
+Secret: FOEIUWGHFEEUHOFUOIU
+
+**user: natas7**
+**pass: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9**
+## Natas7
+http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8
+
+**user: natas8**
+**pass: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe**
+## Natas8
+
