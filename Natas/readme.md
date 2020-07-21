@@ -1,11 +1,15 @@
 # NATAS WRITE UP
 ## Natas0
 View source 
+
 user: natas1
+
 pass: gtVrDuiDfck831PqWsLEZy5gyDz1clto 
 ## Natas1
 Ctrl + U
+
 user: natas2
+
 pass: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
 ## Natas2
 http://natas2.natas.labs.overthewire.org/files/users.txt
