@@ -5,7 +5,7 @@ Guess what the flag is, and we will tell you if you're right!
 ## First glance
 Just like the description say, this website take our input and check if it's the flag or not.
 
-Howevery, nothing was sent to server, so this is a client-side checking. So this write up is almost about how do I debug, if you just want to check for the flag, go straight [here](#markdown-header-final-step).
+Howevery, nothing was sent to server, so this is a client-side checking. So this write up is almost about how do I debug, if you just want to check for the flag, go straight [here](#final-step).
 ## Final step
 Searching through all the source code with pattern `[0][0][$position]` to get to the checking function of `$position`. Since we know the flag format is `SBCTF{...`, we should check from the position `6`, but for make sure, I will double check if the position `5` is a `{` or not. Search `[0][0][5]` give this function 
 ```javascript
