@@ -7,7 +7,7 @@ Our site has been under development for 3 years, can you test it so we can relea
 ## First glance
 When you visit the URL, the website say that it will be release in more than 1000 days
 ![image](https://user-images.githubusercontent.com/39065934/126634155-dacd87d8-7f5e-46b9-aceb-0e95745b488a.png)
-When checking the source, the have the following javascript code for counting down time
+When checking the source, they have the following javascript code for counting down time
 ![image](https://user-images.githubusercontent.com/39065934/126634244-7bb79a7a-823c-4e69-bf09-8a0cba5bd2b6.png)
 ## Find the real page
 
@@ -71,6 +71,7 @@ zip --symlink exploit.zip flag.txt
 ```
 However, it doesn't work as we expected.
 ![image](https://user-images.githubusercontent.com/39065934/126637641-65df384d-79ad-4509-8ae0-38f0695e026f.png)
+
 Okey so now it's time to double check. Because the result say that the file is not found, I tried read the famous `/etc/passwd` file for double check.
 ```bash
 ln -s /etc/flag flag.txt
@@ -81,7 +82,7 @@ Now we can see the content of `/etc/passwd`, but the flag file is still not foun
 ![image](https://user-images.githubusercontent.com/39065934/126638006-0da3f0b5-0650-4cc3-b697-a8dc0b5abe91.png)
 
 ## Reading the source code
-By now I tried to read the source code, and luckyly, the we can see that path is `/var/www/html/tmp/upload_*****`, which make me think that the source code should be in `/var/www/html`, so now we trying to read it using the following
+By now I tried to read the source code, and luckyly, that we can see that path is `/var/www/html/tmp/upload_*****`, which make me think that the source code should be in `/var/www/html`, so now we trying to read it using the following
 ```bash
 ln -s /var/www/html/admin.php source.txt
 zip --symlink exploit.zip source.txt
